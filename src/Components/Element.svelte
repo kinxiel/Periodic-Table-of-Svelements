@@ -77,6 +77,5 @@
     <div class="mx-auto overflow-hidden font-light text-center element-name">
       {elements[atomicNumber - 1].name}
     </div>
-    <div class="mx-auto overflow-hidden font-light text-center element-name" />
   </div>
 </button>
